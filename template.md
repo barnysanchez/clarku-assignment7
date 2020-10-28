@@ -13,7 +13,7 @@ You are not to use already made data sets, unless only to compliment or enrich y
 - Please see that the expected file is a Jupyter notebook which contains Python code and markdown, just like shown in class and in my recap video from week 2. 
 
 
-# Section 1) Dataset name submission (10%)
+# Section 1) Data set name submission (10%)
 
 In your private repo, ensure that you save your data set with the name *lastname*_week10_data.(extension)
 
