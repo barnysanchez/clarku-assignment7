@@ -21,6 +21,10 @@ Your data set file format should be reflected in the name extension. Understandi
 
 For example, my dataset would be named:   _sanchez_week10_data.pkl_
 
+(Just to be very clear, I expect your data sets to be single files. The data set should have the structure in place to hold the data samples, the features and labels.) 
+
+In addition to the data set file, I expect to see in your repo the Jupyter notebook with the naming convention: *lastname*_week10.ipynb.
+
 # Section 2) Explain your data set, how it is composed, and how you collected it (30%)
 
 For example, if your data set is a csv file, I expect an explanation of every column. Explain what every feature is and the label(s) in place. If your dataset is a collection of images, explain how each is composed, and the classes. 
